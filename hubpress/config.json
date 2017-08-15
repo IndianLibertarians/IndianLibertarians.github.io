@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://IndianLibertarians.github.io",
+    "hubpress": "https://indianlibertarians.github.io",
+    "theme": "//IndianLibertarians.github.io/themes/casper",
+    "images": "https://IndianLibertarians.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
